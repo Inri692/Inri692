@@ -7,7 +7,7 @@
 
 ## :sassy_man: About me
 
-- :school: I am a Junior Front End Web Developer graduated from Alterra Academy Front End Immersive Program Bootcamp
+- :school: I am a Junior Front End Web Developer 
 - :telephone_receiver: I’m currently open for a new job opportunity
   <br>
 
