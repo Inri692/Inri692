@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/inri-veronika-togatorop-b6b9b5222/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	 &emsp; 
   <a href="https://poetic-licorice-00d44c.netlify.app/">
-    <img src="https://img.shields.io/badge/Portofolio-%23646CFF?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23646CFF.svg?style=plastic&logo=portfolio&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
