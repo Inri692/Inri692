@@ -21,7 +21,9 @@
 	 &emsp; 
   <a href="https://www.linkedin.com/in/inri-veronika-togatorop-b6b9b5222/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	 &emsp; 
-  <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://poetic-licorice-00d44c.netlify.app/">
+    <img src="https://img.shields.io/badge/Portofolio-%23646CFF?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </p>
 
 <br>
