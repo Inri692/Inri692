@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Inri Veronika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Inri Veronika Togatorop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer&center=true&width=500&height=50"></a>
 </p>
@@ -7,7 +7,7 @@
 
 ## :sassy_man: About me
 
-- :school: I am a Junior Front End Web Developer 
+- :school: I am a Junior Front End Developer 
 - :telephone_receiver: I’m currently open for a new job opportunity
   <br>
 
