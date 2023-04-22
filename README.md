@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Inri Veronika Togatorop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Web+Developer&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer&center=true&width=500&height=50"></a>
 </p>
 
 <br>
@@ -21,7 +21,7 @@
 	 &emsp; 
   <a href="https://www.linkedin.com/in/inri-veronika-togatorop-b6b9b5222/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	 &emsp; 
-  <a href="https://poetic-licorice-00d44c.netlify.app/">
+  <a href="https://personal-website-inri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23646CFF.svg?style=plastic&logo=portfolio&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
