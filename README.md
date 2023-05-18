@@ -3,9 +3,20 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer&center=true&width=500&height=50"></a>
 </p>
 
+</p>
+
 <br>
+
+## :sassy_man: About me
+
+- :school: I am a Junior Front End Developer 
+
+  <br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 <br>
+
 <p align="center">
    &emsp; 
 	<a href="mailto:inritogatorop369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
