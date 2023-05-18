@@ -4,13 +4,6 @@
 </p>
 
 <br>
-
-## :sassy_man: About me
-
-- :school: I am a Junior Front End Developer 
-- :telephone_receiver: I’m currently open for a new job opportunity
-  <br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
