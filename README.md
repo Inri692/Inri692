@@ -2,25 +2,6 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer&center=true&width=500&height=50"></a>
 </p>
-
-</p>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-
-<br>
-
-<p align="center">
-   &emsp; 
-	<a href="mailto:inritogatorop369@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	 &emsp; 
-  <a href="https://github.com/Inri692"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	 &emsp; 
-  <a href="https://www.linkedin.com/in/inri-veronika-togatorop-b6b9b5222/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	 &emsp; 
-  <a href="https://personal-website-inri.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23646CFF.svg?style=plastic&logo=portfolio&logoColor=white" alt="Portfolio Website"/>
-  </a>
-</p>
-
 <br>
 
 ## 🛠️ My Skills
