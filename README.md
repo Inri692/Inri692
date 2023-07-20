@@ -4,15 +4,6 @@
 </p>
 
 </p>
-
-<br>
-
-## :sassy_man: About me
-
-- :school: I am a Junior Front End Developer 
-
-  <br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <br>
